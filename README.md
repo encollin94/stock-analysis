@@ -3,7 +3,7 @@
 ### VBA Challenge Project
 
 #### **Overview**
-The purpose of this project was to refactor code  in VBA that would analyze different stocks and their information. Of the utmost importance is the annual return of each stock. Additionally, the volume(or amount of  stock being traded) was calculated over the year of interest. The code runs through a selection of 12 stocks that are of the client's interest for the years of 2017 and 2018.
+The purpose of this project was to refactor code  in VBA that would analyze different stocks and their information. The number one outcome need was the annual return of each stock. Additionally, the volume(or amount of  stock being traded) was calculated over the indicated year(s). The code runs through a selection of 12 stocks that are of the client's interest for the years of 2017 and 2018.
 
 
 #### **Results**
